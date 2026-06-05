@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying at Universitas Darussalam Gontor<br>🌱 I’m passionate about Machine Learning, AI Integration , Software Development<br>📫 How to reach me: aishautwa17@gmail.com</p>
+<p align="left">🔭 I’m currently studying at Universitas Darussalam Gontor<br>🌱 I’m passionate about Machine Learning, AI Integration , Software Engineer<br>📫 How to reach me: aishautwa17@gmail.com</p>
 
 ###
 
